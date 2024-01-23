@@ -1,6 +1,15 @@
+All API's are working. Backend is fully functional but the react part has glitches that could not be resolved in time limit. 
+
+nodemon index.js for backend check. 
+npm start for react app
+
+
+
+
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project as bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
